@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Recetas de cocina</title>
+  <link>http://comidas.com</link>
+  <description>Mis recetas de cocina</description>
+  <item>
+    <guid>http://comidas.com/rec</guid>
+    <title>Pollo al limón</title>
+    <link>http://comidas.com/rec/pollo-al-limon.html</link>
+    <Date>14 Febrero 2023 </Date>
+    <description>Para preparar esta receta los ingredientes son...</description>
+  </item>
+  <item>
+    <guid>http://comidas.com/rec</guid>
+    <title>Albondigas con tomate</title>
+    <link>http://comidas.com/rec/albondigas.html</link>
+    <Date>25 Enero 2023 </Date>
+    <description>Los ingredientes necesarios para esta receta son...</description>
+  </item>
+  <item>
+    <guid>http://comidas.com/rec</guid>
+    <title>Paella valenciana</title>
+    <link>http://comidas.com/rec/paella.html</link>
+    <Date>17 Julio 2022</Date>
+    <description>Esta receta empieza...</description>
+  </item>
+</channel>
+</rss>
